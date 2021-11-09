@@ -72,3 +72,7 @@ if (isset($_POST['estado'])) {
 }
 
 $con = null;
+
+include_once 'index.php';
+
+?>
